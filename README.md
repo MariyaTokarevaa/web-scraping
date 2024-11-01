@@ -1,5 +1,5 @@
 # AnekdotBot 
-# телеграм-бот - парсер сайта www.anekdot.ru
+# Телеграм-бот - парсер сайта www.anekdot.ru
 
 ![img.png](img.png)
 
